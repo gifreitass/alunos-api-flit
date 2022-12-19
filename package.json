@@ -1,0 +1,23 @@
+{
+  "name": "alunos-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gifreitass/alunos-api-flit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gifreitass/alunos-api-flit/issues"
+  },
+  "homepage": "https://github.com/gifreitass/alunos-api-flit#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
